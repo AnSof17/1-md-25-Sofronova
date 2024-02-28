@@ -1,3 +1,4 @@
+"""Задание 2"""
 print("Enter the seat number: ")
 a = int(input())
 if a%2 == 0:
